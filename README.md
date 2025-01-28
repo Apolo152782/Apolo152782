@@ -24,7 +24,7 @@
   - Frontend: [Repositorio del Frontend](https://github.com/Apolo152782/ProyectoDeAula-FrontendStaflow)
 
 ## 📊 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Apolo152782GitHub&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Apolo152782&show_icons=true&theme=radical)
 
 
 ---
