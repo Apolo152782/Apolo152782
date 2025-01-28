@@ -7,7 +7,7 @@
 - 🔭 Trabajando en proyectos de backend y frontend.
 - 🌱 Explorando tecnologías como **React**, **Spring Boot**, y más.
 - 💬 Pregúntame sobre desarrollo web, Java y React.
-- 📫 Contacto: (brayandejesus017@gamil.com)
+- 📫 Contacto: Brayandejesus017@gamil.com
 
 ## 🛠️ Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
