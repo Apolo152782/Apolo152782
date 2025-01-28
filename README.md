@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]!
+# 👋 Hola, soy Brayan Marrugo!
 
 ¡Bienvenido a mi perfil! Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras y aprender constantemente sobre nuevas tecnologías.
 
@@ -24,8 +24,8 @@
   - Frontend: [Repositorio del Frontend](https://github.com/Apolo152782/ProyectoDeAula-FrontendStaflow)
 
 ## 📊 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Apolo152782&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Apolo152782GitHub&show_icons=true&theme=radical)
+
 
 ---
 
-⭐️ Basado en [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
