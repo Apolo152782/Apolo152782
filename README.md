@@ -17,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📂 Proyectos Destacados
-- **[Control de Inventarios](https://github.com/Apolo152782/ProyectoAula)**: Una aplicación de escritorio en Java con gestión de inventarios.
+- **[Control de Inventarios](https://github.com/Apolo152782/Control-de-Inventarios)**: Una aplicación de escritorio en Java con gestión de inventarios.
 - **[Sistema de Ventas en Línea](https://github.com/Apolo152782/ProyectoDeAulaBSCM)**: Un sistema de ventas basado en JSP y Servlets.
 - **[Control de Heladería \"Ice Cream\"](https://github.com/Apolo152782/ProyectoDeAula-FrontendStaflow)**: Una página web con backend en Spring Boot y frontend en React.  
   - Backend: [Repositorio del Backend](https://github.com/Apolo152782/ProyectoDeAula-BackendStaflow)  
